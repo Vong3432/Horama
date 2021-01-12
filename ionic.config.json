@@ -1,0 +1,7 @@
+{
+  "name": "horama",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
